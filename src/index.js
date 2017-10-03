@@ -67,7 +67,7 @@ componentDidMount(){
       distance:"150px",
       viewFactor:0.2
     });
-    sr.reveal('.contact-social-media',{
+    sr.reveal('.social-media',{
       duration:2000,
       origin:'right',
       distance:"150px",
@@ -78,7 +78,7 @@ componentDidMount(){
     return(
       <div id='whole-page'>
         <Navbar />
-        
+
         <SectionOne />
         <hr className='hr-seperation'/>
         <SectionTwo />
