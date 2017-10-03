@@ -63,14 +63,14 @@ componentDidMount(){
     });
     sr.reveal('form',{
       duration:2000,
-      origin:'left',
-      distance:"150px",
+      origin:'bottom',
+      distance:"100px",
       viewFactor:0.2
     });
-    sr.reveal('.social-media',{
+    sr.reveal('.contact-social-media',{
       duration:2000,
-      origin:'right',
-      distance:"150px",
+      origin:'bottom',
+      distance:"100px",
       viewFactor:0.2
     });
   }

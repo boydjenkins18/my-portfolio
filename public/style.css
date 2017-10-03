@@ -307,9 +307,6 @@ form input, textarea {
   margin-bottom: 15px;
   padding: 5px;
 }
-
-form {}
-
 .contact-social-media {
   margin: 0 auto;
   margin-top: 5%;
@@ -318,7 +315,7 @@ form {}
 .social-media {
   padding: 40px 45px 40px 45px;
   margin: 5px;
-  transition: border-radius 1.3s, transform 1s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.35s;
+  transition: border-radius 1.3s, transform 1s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.35s !important;
   color: #ddd;
   text-decoration: none !important;
   font-size: 40px !important;
@@ -328,7 +325,7 @@ form {}
 }
 
 .social-media:hover {
-  transform: scale(0.8) rotate(360deg);
+  transform: scale(0.8) rotate(360deg) !important;
   border-radius: 100%;
   color: #ddd;
 }
@@ -340,6 +337,7 @@ form {}
 .fa-facebook {
   background: #3b5998;
 }
+
 
 .fa-linkedin {
   background: #007bb5;
