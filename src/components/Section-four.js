@@ -20,9 +20,9 @@ export default class SectionFour extends React.Component{
             </form>
                 <div className="contact-social-media">
                       <a target='_blank' rel="noopener noreferrer" href="https://www.facebook.com/boyd.jenkins.10" className='social-media col-lg-3 fa fa-facebook'></a>
-                      <a target='_blank' rel="noopener noreferrer" href="https://www.linkedin.com/in/boyd-jenkins-jr-224aa3142/" className='social-media col-lg-3 fa fa-linkedin'></a>
                       <a target='_blank' rel="noopener noreferrer" href="https://github.com/boydjenkins18" className='social-media col-lg-3 fa fa-github github'></a>
-                      <a target='_blank' rel="noopener noreferrer" href="https://www.youtube.com/channel/UCkK_O8PYD9S4pUpu-LJZizA" className='social-media col-lg-3 fa fa-youtube'></a>
+                      <a target='_blank' rel="noopener noreferrer" href="https://www.linkedin.com/in/boyd-jenkins-jr-224aa3142/" className='social-media col-lg-3 fa fa-linkedin'></a>
+                      <a target='_blank' rel="noopener noreferrer" href="https://codepen.io/boydjenkins18/" className='social-media col-lg-3 fa fa-codepen'></a>
                 </div>
         </div>
         </div>

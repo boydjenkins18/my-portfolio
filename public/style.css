@@ -321,7 +321,7 @@ form input, textarea {
   transition: border-radius 1.3s, transform 1s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.35s !important;
   color: #ddd;
   text-decoration: none !important;
-  font-size: 40px !important;
+  font-size: 35px !important;
   width: 120px;
   float: none;
   box-shadow: 0 0 15px #080808;
@@ -350,8 +350,8 @@ form input, textarea {
   background: #000000;
 }
 
-.fa-youtube {
-  background: #FF3333;
+.fa-codepen {
+  background: #212121;
 }
 
 #thankyou_message {
